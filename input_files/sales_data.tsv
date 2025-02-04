@@ -1,0 +1,316 @@
+transaction_id	date	customer_id	product	category	quantity	price	payment_method
+401	2024-10-15	4289.0		Stationery	4.0		Credit Card
+402	2024-08-01	1307.0	Laptop	Electronics	4.0	256.0	PayPal
+403	2024-03-03	3130.0		Furniture	4.0	705.0	
+404	2024-09-18	1795.0	Laptop	Furniture	2.0	825.0	Credit Card
+405	2024-09-27	3494.0	Tablet	Accessories	4.0	379.0	PayPal
+406	2024-02-17	4563.0		Stationery	4.0	193.0	Cash
+407	2024-05-20	3519.0	Monitor	Furniture		546.0	Cash
+408	2024-07-01	3849.0	Office Chair	Furniture	4.0	519.0	PayPal
+409			Desk Lamp	Furniture		969.0	PayPal
+410	2025-01-18	4282.0	Office Chair	Accessories	1.0	204.0	PayPal
+411	2024-06-16	4354.0	Laptop	Stationery	3.0	469.0	Credit Card
+412	2024-02-19	4764.0	Headphones	Stationery	3.0	443.0	Cash
+413	2024-02-13	4203.0	Monitor	Accessories	3.0	377.0	
+414	2024-05-06	2269.0	Desk Lamp	Furniture	2.0	908.0	PayPal
+415	2024-03-17	1148.0		Accessories	1.0	637.0	PayPal
+416	2024-12-18	2492.0	Laptop	Accessories	2.0	774.0	Cash
+417	2024-11-09	1249.0	Notebook	Stationery	2.0	34.0	Credit Card
+418		1983.0	Desk Lamp	Furniture	1.0		Credit Card
+419	2024-03-25	1874.0	Monitor	Accessories	3.0	539.0	
+420	2024-10-15			Accessories	3.0	201.0	
+421	2024-12-15	4623.0	Headphones	Furniture	1.0	189.0	Credit Card
+422	2024-07-08	4783.0	Monitor		1.0	201.0	Credit Card
+423	2024-06-13	2913.0	Smartphone	Stationery	1.0	65.0	Cash
+424	2024-12-27	2260.0	Backpack	Electronics	1.0	594.0	Cash
+425	2024-06-21	3799.0	Headphones	Electronics	4.0	709.0	Cash
+426	2024-09-30		Monitor	Furniture		900.0	Cash
+427	2024-03-27	1959.0	Backpack	Accessories	2.0	615.0	Credit Card
+428	2024-02-23	1614.0	Smartphone	Accessories	3.0	683.0	Cash
+429	2024-02-18	3590.0	Notebook	Electronics	4.0	906.0	Cash
+430		1277.0	Tablet		3.0		Credit Card
+431	2024-09-20	1760.0	Backpack	Furniture	1.0	344.0	Credit Card
+432	2024-06-16	1021.0	Backpack	Stationery	1.0	217.0	PayPal
+433		4758.0	Laptop	Electronics	2.0	611.0	Credit Card
+434	2025-01-12		Backpack	Electronics	4.0	599.0	Credit Card
+435	2025-01-28	3821.0	Office Chair	Furniture	2.0	248.0	Credit Card
+436	2024-02-14	1654.0		Electronics	3.0		Credit Card
+437	2024-08-08	3462.0	Smartphone	Accessories	3.0	69.0	
+438		4780.0	Backpack	Furniture		416.0	Credit Card
+439		2953.0		Furniture	4.0	399.0	PayPal
+440	2024-11-05	3618.0	Headphones	Furniture	4.0	794.0	Credit Card
+441	2024-12-18	1525.0	Monitor		4.0	896.0	Cash
+442		1018.0	Office Chair	Electronics	3.0	924.0	Cash
+443	2024-04-29	4999.0	Tablet	Accessories	1.0	390.0	Credit Card
+444	2025-01-15	4398.0	Headphones	Electronics	3.0	809.0	Credit Card
+445	2024-04-02	3873.0	Smartphone	Accessories	3.0	760.0	
+446	2024-07-13	4907.0	Tablet	Stationery	4.0	741.0	PayPal
+447	2024-06-20	2411.0	Headphones		3.0	767.0	Cash
+448	2024-06-29	1170.0	Desk Lamp		1.0	971.0	Cash
+449	2024-11-16	4575.0	Office Chair	Stationery	2.0	134.0	Credit Card
+450	2024-06-24	4023.0	Office Chair	Furniture	2.0	239.0	PayPal
+451	2024-03-12	3929.0	Smartphone	Electronics	1.0	432.0	
+452	2024-09-01	1170.0	Monitor	Electronics	2.0	911.0	PayPal
+453		3541.0	Notebook	Electronics	3.0		PayPal
+454	2024-03-06	4217.0	Tablet	Furniture	4.0	466.0	Credit Card
+455		2225.0	Notebook	Furniture	4.0	385.0	Cash
+456	2024-09-04	1446.0	Office Chair	Furniture	3.0	820.0	Credit Card
+457		4167.0	Notebook			858.0	
+458	2024-10-30	1978.0		Accessories	2.0	513.0	PayPal
+459	2024-02-12	4362.0	Backpack	Electronics	4.0	159.0	
+460	2024-11-23	1778.0	Office Chair	Electronics	4.0	85.0	
+461	2024-04-24	4341.0	Laptop		1.0	260.0	Credit Card
+462	2024-06-02	1840.0	Monitor	Furniture		134.0	Cash
+463	2024-05-05	2092.0	Notebook	Accessories	3.0	39.0	Credit Card
+464	2024-12-04	3971.0	Headphones	Electronics	4.0	377.0	
+465	2024-04-01	4096.0	Desk Lamp	Furniture	2.0	615.0	
+466	2024-09-30	3686.0	Desk Lamp	Electronics	2.0	364.0	PayPal
+467	2024-06-06		Office Chair	Stationery	3.0	606.0	Credit Card
+468		4285.0	Monitor	Stationery		457.0	PayPal
+469	2024-04-24		Headphones	Accessories		819.0	PayPal
+470		3101.0	Laptop	Stationery	2.0	492.0	Credit Card
+471		1186.0	Backpack	Electronics	4.0	500.0	Cash
+472	2024-06-05	1238.0	Notebook		2.0	651.0	PayPal
+473	2024-04-05	1826.0	Tablet	Stationery	3.0	888.0	Cash
+474	2024-04-07	1574.0	Tablet	Accessories	4.0	150.0	PayPal
+475	2024-02-15		Laptop	Stationery	1.0	474.0	
+476	2024-03-19	1519.0	Smartphone	Furniture	4.0	813.0	PayPal
+477	2024-04-22	2884.0	Smartphone	Furniture	3.0	409.0	PayPal
+478	2024-07-08	1969.0	Monitor	Electronics	4.0	133.0	
+479	2024-07-02	4364.0	Office Chair	Stationery	4.0	440.0	PayPal
+480	2024-12-13	2459.0		Electronics	2.0	30.0	Credit Card
+481	2024-03-03	3074.0	Monitor	Accessories	1.0	669.0	Credit Card
+482	2024-06-10	1837.0		Furniture	2.0	233.0	PayPal
+483	2025-01-15		Backpack	Accessories	2.0	54.0	Cash
+484	2024-03-20	1470.0			3.0	839.0	
+485	2024-08-20	3268.0	Notebook	Furniture	4.0	957.0	Cash
+486	2024-06-11	1931.0	Desk Lamp	Stationery	3.0	924.0	PayPal
+487	2024-04-16	3629.0	Notebook		3.0	450.0	Credit Card
+488	2024-08-23	2311.0	Notebook	Furniture	2.0	526.0	Cash
+489	2024-05-15	3685.0	Smartphone	Furniture	2.0	845.0	Credit Card
+490	2024-11-08	4371.0	Headphones	Electronics		658.0	PayPal
+491	2025-01-31	2630.0	Monitor	Accessories	3.0	499.0	PayPal
+492	2024-05-26	2182.0	Office Chair	Electronics	1.0	198.0	Cash
+493	2024-09-25	2362.0	Smartphone	Accessories	2.0	196.0	
+494	2024-10-09	1129.0	Headphones	Accessories	4.0	794.0	PayPal
+495	2024-03-04	3470.0	Smartphone	Stationery	3.0	97.0	Credit Card
+496	2024-04-17	1906.0	Monitor	Electronics	4.0	336.0	PayPal
+497		4950.0	Headphones		3.0	730.0	Credit Card
+498	2025-02-01	2371.0	Laptop	Stationery	4.0	190.0	PayPal
+499	2024-05-25	3758.0	Headphones	Furniture	4.0		Cash
+500	2024-10-03		Tablet	Furniture	3.0	340.0	Credit Card
+501	2024-04-19	4266.0	Office Chair	Furniture	3.0	890.0	PayPal
+502	2024-12-06	4009.0	Laptop	Accessories	2.0	325.0	PayPal
+503		3077.0	Notebook	Furniture	4.0	802.0	Credit Card
+504	2025-01-05	1777.0	Tablet	Electronics	1.0	370.0	PayPal
+505	2024-12-08	1553.0	Smartphone	Furniture	4.0	246.0	PayPal
+506	2024-09-03	1184.0	Notebook	Furniture	3.0	292.0	Credit Card
+507	2024-05-05	1335.0	Headphones	Accessories	2.0	610.0	PayPal
+508	2024-09-24	3059.0	Tablet	Electronics	4.0	867.0	Credit Card
+509		1521.0	Desk Lamp	Furniture	4.0	797.0	Cash
+510	2025-01-20	1059.0	Headphones	Electronics	3.0	645.0	PayPal
+511	2024-11-29			Stationery	1.0	87.0	PayPal
+512	2024-10-09	4356.0	Smartphone	Accessories		134.0	Cash
+513	2024-06-02		Smartphone	Furniture	2.0	855.0	Credit Card
+514	2024-10-27	4729.0	Tablet	Furniture	2.0		
+515	2024-07-12		Backpack	Accessories	2.0		Credit Card
+516	2024-08-02	2443.0	Backpack		3.0		Credit Card
+517	2024-12-25	2379.0	Tablet	Electronics	4.0	938.0	Credit Card
+518	2024-06-25		Notebook	Furniture		204.0	Cash
+519	2024-11-18	1479.0	Smartphone		1.0	113.0	Cash
+520		2485.0	Monitor	Stationery	2.0	719.0	Credit Card
+521	2024-12-24	4052.0	Monitor	Furniture	1.0	720.0	PayPal
+522	2025-01-22	2823.0	Laptop	Electronics	2.0	504.0	PayPal
+523	2024-02-20	4844.0	Notebook	Stationery	4.0	777.0	Cash
+524	2024-03-14	3253.0	Laptop	Electronics	3.0	364.0	Credit Card
+525	2024-12-09	1475.0	Office Chair	Furniture	2.0	199.0	Cash
+526	2024-04-04	1799.0	Tablet	Electronics	3.0	733.0	Cash
+527	2024-12-12	2668.0			2.0	520.0	Credit Card
+528	2025-01-01	4678.0	Backpack	Furniture	1.0	846.0	Cash
+529	2024-10-02	4672.0	Tablet	Stationery	1.0	733.0	Cash
+530	2024-07-04		Monitor	Stationery	2.0	353.0	Cash
+531	2025-01-25	4996.0	Backpack		4.0	620.0	PayPal
+532	2024-03-30	2986.0		Stationery	2.0	446.0	Cash
+533	2024-12-17	1128.0	Laptop	Furniture	1.0	861.0	PayPal
+534	2024-11-27		Office Chair	Electronics	3.0	197.0	Cash
+535	2024-06-20	3756.0	Notebook	Electronics	4.0	82.0	Cash
+536	2024-05-05	2795.0	Office Chair	Furniture	3.0	111.0	Cash
+537	2024-09-08	3732.0	Desk Lamp	Furniture		61.0	Cash
+538	2024-07-15	2972.0	Backpack	Stationery	3.0	977.0	PayPal
+539	2024-03-24	1857.0	Office Chair	Furniture	3.0	308.0	Credit Card
+540	2024-06-14	1923.0	Desk Lamp	Accessories	4.0	220.0	Cash
+541	2024-04-26	3482.0	Monitor	Furniture	3.0	675.0	PayPal
+542	2024-05-23	1410.0	Backpack	Furniture	3.0	284.0	
+543	2024-02-28	1941.0		Furniture	1.0	947.0	Credit Card
+544	2024-04-23	4938.0	Tablet	Accessories	3.0	61.0	
+545	2024-10-10	2966.0	Tablet	Stationery	3.0	368.0	Credit Card
+546	2024-10-29	4395.0	Desk Lamp	Accessories	2.0	879.0	PayPal
+547	2024-04-12	3699.0	Office Chair	Electronics		55.0	Credit Card
+548	2024-05-05	1599.0	Desk Lamp	Electronics	1.0	390.0	PayPal
+549	2024-08-22	4637.0	Desk Lamp	Accessories			Cash
+550	2024-08-02		Laptop	Stationery	2.0	643.0	Cash
+551	2024-07-16	4419.0	Backpack	Electronics	3.0	438.0	Cash
+552		4569.0	Desk Lamp	Furniture	1.0		Credit Card
+553	2024-11-11	2490.0	Laptop	Accessories	2.0	343.0	Cash
+554	2024-05-17	1797.0	Laptop	Stationery	4.0		PayPal
+555	2024-05-05	3547.0	Tablet	Electronics	3.0	367.0	PayPal
+556	2024-10-22	1506.0		Accessories	2.0	253.0	PayPal
+557	2024-09-08	1421.0	Monitor	Electronics	2.0	528.0	PayPal
+558	2024-06-08	2872.0	Headphones	Electronics	1.0	339.0	PayPal
+559	2024-04-09	2464.0	Monitor	Accessories	1.0	315.0	PayPal
+560	2024-07-14	3010.0	Notebook	Electronics	1.0	757.0	Credit Card
+561	2025-01-12	2211.0		Accessories	1.0	653.0	Cash
+562	2024-06-18	1501.0	Notebook	Electronics	3.0	487.0	PayPal
+563	2025-01-09	1456.0	Office Chair		1.0	929.0	Cash
+564	2024-12-26	3339.0	Headphones	Accessories	3.0	820.0	Cash
+565	2025-01-28	2567.0	Desk Lamp	Furniture	4.0	517.0	Credit Card
+566		3575.0	Office Chair	Stationery	3.0	196.0	Cash
+567	2024-07-25	3307.0	Smartphone	Electronics		313.0	PayPal
+568	2024-08-19	4110.0	Desk Lamp	Accessories	2.0		PayPal
+569	2024-06-02	4274.0	Headphones	Accessories	4.0	231.0	PayPal
+570		4161.0	Smartphone	Stationery	3.0	262.0	Credit Card
+571	2024-12-14			Furniture	1.0	399.0	PayPal
+572	2024-04-15	4115.0	Tablet		2.0		
+573	2024-08-20	4985.0	Smartphone	Furniture	1.0	947.0	Credit Card
+574	2024-05-17	2993.0	Smartphone	Accessories	2.0	871.0	
+575		4494.0	Desk Lamp	Furniture	1.0	853.0	Cash
+576	2024-04-05	2564.0	Laptop	Stationery	2.0	126.0	Cash
+577	2025-01-07	1769.0	Notebook	Stationery	1.0	181.0	PayPal
+578	2024-04-04		Office Chair	Stationery	3.0	731.0	PayPal
+579	2024-11-03	2444.0	Laptop	Accessories		616.0	PayPal
+580	2024-12-03		Notebook	Stationery	2.0	205.0	Credit Card
+581	2024-04-17	2121.0	Tablet	Furniture	2.0	181.0	Cash
+582	2024-05-17	3181.0	Desk Lamp	Stationery	1.0	94.0	Cash
+583	2024-05-30	2786.0	Monitor	Accessories	4.0	229.0	Cash
+584	2024-07-06	2654.0	Laptop	Electronics	2.0	438.0	PayPal
+585	2024-11-10	3463.0	Smartphone	Stationery	1.0	563.0	Credit Card
+586	2024-05-09	1479.0	Monitor	Furniture	3.0	976.0	Credit Card
+587	2024-10-24	3170.0	Office Chair	Stationery	2.0	357.0	Credit Card
+588	2024-10-16	4022.0	Office Chair		4.0	632.0	PayPal
+589	2024-12-12	1588.0	Office Chair	Stationery	4.0	529.0	Cash
+590	2025-01-12	3169.0	Notebook	Stationery	4.0		Credit Card
+591	2024-09-06	1450.0	Tablet	Stationery	4.0	342.0	Cash
+592	2024-06-20	4567.0	Desk Lamp	Accessories	2.0	342.0	Credit Card
+593	2024-07-09	2016.0	Monitor	Stationery	3.0	623.0	PayPal
+594	2024-10-17		Backpack	Accessories	1.0	437.0	
+595	2024-03-27	3313.0	Tablet	Accessories	1.0	994.0	PayPal
+596	2024-11-04	3059.0	Desk Lamp	Electronics	4.0	675.0	PayPal
+597	2024-11-07	2391.0	Desk Lamp	Accessories	1.0	800.0	Cash
+598	2024-08-21	1133.0	Smartphone	Stationery		539.0	PayPal
+599	2024-07-24	2164.0	Headphones	Stationery	4.0	328.0	Credit Card
+600	2024-05-02	4163.0	Office Chair	Accessories		681.0	Cash
+601	2024-04-22		Tablet	Accessories		741.0	Credit Card
+602	2024-12-01	4139.0	Desk Lamp	Furniture	4.0	332.0	PayPal
+603	2024-10-22	1903.0	Backpack	Accessories	4.0	441.0	Cash
+604	2024-05-03	3653.0	Smartphone	Electronics	4.0	127.0	PayPal
+605	2024-10-04	1366.0	Headphones	Furniture	2.0	822.0	PayPal
+606			Headphones		1.0	448.0	Cash
+607	2024-12-12	2170.0	Office Chair	Stationery		547.0	PayPal
+608	2024-04-18	2037.0	Backpack	Electronics	4.0		Credit Card
+609	2024-11-02	1704.0	Office Chair	Stationery	3.0	735.0	Cash
+610	2024-10-07	4511.0	Backpack	Stationery	2.0		Cash
+611		4803.0		Stationery		900.0	Credit Card
+612		4197.0	Laptop	Electronics	2.0	620.0	PayPal
+613	2025-02-02	1126.0	Office Chair	Accessories	4.0	303.0	Credit Card
+614	2024-12-02	4709.0	Monitor		2.0	671.0	Cash
+615	2024-07-14	1443.0	Tablet	Accessories	3.0	223.0	Credit Card
+616		3841.0		Electronics	1.0	498.0	
+617	2025-01-12	2669.0	Monitor	Stationery		352.0	Cash
+618	2024-02-06	4946.0	Monitor	Accessories	2.0	598.0	Cash
+619	2024-09-07				1.0		Credit Card
+620	2024-11-13	3662.0	Monitor	Stationery	1.0	949.0	PayPal
+621	2024-02-12	4159.0	Office Chair	Stationery	4.0	444.0	PayPal
+622	2025-01-23		Headphones	Accessories	4.0	356.0	PayPal
+623	2024-07-29	2370.0	Desk Lamp	Electronics	1.0	834.0	Cash
+624	2024-08-16	3580.0	Tablet	Accessories	1.0	598.0	Credit Card
+625	2024-06-02	3390.0	Notebook		2.0		Credit Card
+626	2024-03-09	1027.0	Desk Lamp	Furniture	1.0	67.0	PayPal
+627		1296.0	Backpack	Stationery	1.0	559.0	PayPal
+628	2024-03-23	2964.0	Headphones	Accessories	3.0	512.0	Credit Card
+629	2025-01-15	2378.0	Laptop	Accessories	3.0	155.0	Credit Card
+630	2024-09-24	2907.0	Tablet	Electronics	3.0	711.0	Credit Card
+631	2024-12-30	3019.0	Desk Lamp	Electronics	1.0	517.0	PayPal
+632	2025-01-25	1490.0	Headphones	Electronics	4.0		Credit Card
+633	2024-05-07	2938.0	Monitor	Stationery	1.0		PayPal
+634	2024-09-20	2522.0	Desk Lamp	Electronics	2.0	924.0	Credit Card
+635	2024-05-24	3977.0	Tablet	Stationery	2.0	555.0	Credit Card
+636	2025-01-09	4964.0	Backpack	Electronics	2.0	79.0	Credit Card
+637	2024-02-28	3095.0		Stationery	2.0	19.0	PayPal
+638	2024-03-31	3040.0	Notebook	Furniture	4.0	609.0	Credit Card
+639	2024-07-19	2352.0	Notebook	Stationery	4.0	530.0	Credit Card
+640	2024-05-05	2160.0	Notebook			152.0	Cash
+641	2024-03-22		Notebook	Electronics	3.0		Cash
+642	2024-12-02	2681.0	Headphones	Electronics	1.0	781.0	PayPal
+643	2024-07-26		Desk Lamp	Accessories	3.0	505.0	Cash
+644	2024-06-19	4437.0	Desk Lamp	Furniture	1.0		
+645	2024-12-03	3532.0		Accessories	1.0	277.0	Credit Card
+646	2024-07-31	2097.0	Tablet		4.0	208.0	PayPal
+647	2024-12-18	2781.0	Tablet	Accessories	3.0	624.0	Cash
+648	2025-01-04	4924.0	Monitor	Electronics		995.0	Cash
+649	2024-11-18			Stationery	1.0	808.0	PayPal
+650	2024-08-12	1787.0		Electronics	1.0	139.0	Credit Card
+651		4084.0	Monitor		2.0	384.0	PayPal
+652	2024-06-09	4778.0	Office Chair	Furniture	3.0		Credit Card
+653	2024-12-28		Backpack	Stationery		476.0	PayPal
+654	2024-10-13	2390.0	Tablet	Electronics	4.0	24.0	
+655	2024-10-23	2515.0		Stationery	3.0	279.0	
+656	2024-07-01	2490.0	Backpack	Accessories	3.0	551.0	Cash
+657	2024-02-23	3352.0	Desk Lamp		3.0	241.0	Cash
+658	2024-05-24	4655.0	Headphones	Accessories	4.0	509.0	Cash
+659	2025-01-22	2577.0	Laptop	Stationery			Cash
+660	2024-02-26	4226.0	Headphones	Accessories	1.0	527.0	PayPal
+661	2024-11-08	3262.0	Backpack		2.0		Cash
+662	2024-04-01	2872.0	Tablet		2.0	392.0	Cash
+663	2025-01-22	3941.0	Headphones	Accessories		84.0	PayPal
+664	2024-03-12	2212.0	Office Chair	Furniture	4.0	30.0	PayPal
+665	2024-12-29	2207.0	Monitor	Furniture	3.0		Cash
+666	2024-04-25	2811.0	Backpack	Stationery	3.0	914.0	Credit Card
+667	2024-02-10	4968.0	Tablet	Accessories			Cash
+668	2024-12-13	1378.0	Office Chair	Furniture	1.0	625.0	Cash
+669	2024-06-25	3330.0	Laptop	Stationery	4.0	239.0	Cash
+670	2024-03-26	1171.0	Monitor	Electronics	3.0		PayPal
+671		2908.0	Laptop	Furniture	3.0	493.0	Credit Card
+672	2024-12-27		Laptop	Stationery	4.0	398.0	Cash
+673	2025-01-09	1371.0	Office Chair	Accessories	2.0	456.0	Credit Card
+674	2024-11-18	2340.0	Laptop	Accessories	4.0	637.0	Cash
+675	2024-04-15	2873.0	Headphones	Furniture	2.0	507.0	Cash
+676	2024-09-29	4150.0	Backpack	Stationery	3.0	571.0	Cash
+677	2024-10-29	4847.0		Furniture	3.0		Credit Card
+678	2024-06-05	4937.0	Tablet	Accessories	4.0	710.0	PayPal
+679	2024-07-13	2907.0	Laptop	Electronics	1.0	555.0	PayPal
+680	2024-05-20	1078.0	Desk Lamp	Electronics		91.0	PayPal
+681	2024-08-18	2990.0	Monitor	Stationery	4.0	774.0	
+682		1549.0	Tablet	Stationery	2.0	395.0	Credit Card
+683	2024-02-15	2380.0		Accessories	2.0	102.0	Credit Card
+684	2024-02-17	4516.0	Smartphone	Furniture	3.0	494.0	PayPal
+685	2024-03-17	3681.0	Laptop		1.0	857.0	
+686		3550.0		Accessories		944.0	PayPal
+687	2024-05-01	1861.0	Backpack	Electronics	3.0	994.0	Credit Card
+688	2024-04-16	4140.0		Accessories	4.0	828.0	Credit Card
+689	2025-01-16	4236.0	Tablet	Electronics	1.0	435.0	Credit Card
+690	2024-09-20	2857.0	Desk Lamp	Stationery	4.0	351.0	PayPal
+691	2024-12-08	4349.0	Headphones	Stationery	1.0	431.0	Cash
+692	2024-06-02		Laptop	Furniture	3.0	970.0	Cash
+693	2024-04-28	3144.0	Laptop	Accessories	4.0	269.0	Credit Card
+694	2024-11-24	4153.0	Laptop	Accessories	2.0	114.0	
+695	2024-10-07	1227.0	Backpack	Furniture	4.0	811.0	Cash
+696	2024-05-17	2905.0	Tablet		1.0	22.0	PayPal
+697	2024-06-01	3741.0	Laptop	Electronics	3.0	304.0	Credit Card
+698	2024-11-08	1425.0	Laptop	Stationery	2.0	928.0	
+699	2024-09-15	1498.0	Headphones	Furniture	4.0	844.0	Cash
+700	2024-02-06	3295.0	Headphones	Furniture	3.0	305.0	PayPal
+604	2024-05-03	3653.0	Smartphone	Electronics	4.0	127.0	PayPal
+667	2024-02-10	4968.0	Tablet	Accessories			Cash
+553	2024-11-11	2490.0	Laptop	Accessories	2.0	343.0	Cash
+410	2025-01-18	4282.0	Office Chair	Accessories	1.0	204.0	PayPal
+634	2024-09-20	2522.0	Desk Lamp	Electronics	2.0	924.0	Credit Card
+627		1296.0	Backpack	Stationery	1.0	559.0	PayPal
+597	2024-11-07	2391.0	Desk Lamp	Accessories	1.0	800.0	Cash
+510	2025-01-20	1059.0	Headphones	Electronics	3.0	645.0	PayPal
+406	2024-02-17	4563.0		Stationery	4.0	193.0	Cash
+576	2024-04-05	2564.0	Laptop	Stationery	2.0	126.0	Cash
+638	2024-03-31	3040.0	Notebook	Furniture	4.0	609.0	Credit Card
+458	2024-10-30	1978.0		Accessories	2.0	513.0	PayPal
+619	2024-09-07				1.0		Credit Card
+446	2024-07-13	4907.0	Tablet	Stationery	4.0	741.0	PayPal
+583	2024-05-30	2786.0	Monitor	Accessories	4.0	229.0	Cash

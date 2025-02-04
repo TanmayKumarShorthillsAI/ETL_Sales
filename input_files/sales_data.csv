@@ -1,0 +1,421 @@
+transaction_id,date,customer_id,product,category,quantity,price,payment_method
+1,2024-03-12,2159.0,Notebook,,1.0,611.0,Cash
+2,2024-05-30,1340.0,Smartphone,Electronics,,327.0,
+3,,2386.0,Backpack,Furniture,1.0,786.0,
+4,,1816.0,Desk Lamp,Electronics,4.0,798.0,Cash
+5,2024-06-03,4642.0,Monitor,Stationery,1.0,560.0,Credit Card
+6,2025-01-03,2727.0,Office Chair,Stationery,1.0,136.0,PayPal
+7,2024-08-30,,Laptop,Accessories,4.0,,Credit Card
+8,2024-12-16,3036.0,Laptop,Electronics,2.0,112.0,PayPal
+9,2024-05-04,4524.0,Tablet,Electronics,3.0,,Cash
+10,,4741.0,Monitor,Electronics,3.0,861.0,PayPal
+11,2024-11-22,2681.0,Headphones,Accessories,2.0,682.0,Cash
+12,2024-03-20,1419.0,,Electronics,,760.0,Credit Card
+13,,,Office Chair,,,944.0,PayPal
+14,2024-07-09,1958.0,Desk Lamp,Furniture,2.0,828.0,Cash
+15,2024-10-27,2996.0,Headphones,Stationery,2.0,722.0,Credit Card
+16,2024-09-14,4622.0,Office Chair,Accessories,2.0,676.0,Credit Card
+17,2024-03-31,4585.0,Backpack,Stationery,4.0,359.0,PayPal
+18,2024-08-11,2104.0,,Furniture,4.0,428.0,
+19,2024-08-18,2856.0,Monitor,Electronics,3.0,995.0,Credit Card
+20,2024-09-08,2236.0,Laptop,Stationery,3.0,930.0,
+21,,2431.0,Desk Lamp,Furniture,4.0,286.0,PayPal
+22,2024-09-14,2130.0,Headphones,,3.0,438.0,Cash
+23,2024-06-17,3120.0,,Furniture,2.0,39.0,PayPal
+24,2024-11-20,2823.0,Office Chair,Stationery,4.0,181.0,Cash
+25,,,Monitor,Accessories,3.0,569.0,PayPal
+26,2024-06-08,4896.0,Backpack,Accessories,4.0,938.0,Cash
+27,2024-10-06,4361.0,Tablet,Accessories,1.0,16.0,Credit Card
+28,2024-05-20,,Laptop,Electronics,3.0,157.0,Cash
+29,,4740.0,Headphones,Accessories,3.0,436.0,Cash
+30,2024-12-16,2502.0,Laptop,Electronics,2.0,585.0,Credit Card
+31,2024-12-05,2415.0,Headphones,Accessories,,449.0,PayPal
+32,2024-08-02,1832.0,Notebook,Electronics,1.0,443.0,Credit Card
+33,2024-11-20,3973.0,Tablet,,3.0,588.0,Cash
+34,2025-01-15,1556.0,Notebook,Furniture,,439.0,PayPal
+35,,1362.0,Office Chair,Furniture,,836.0,Credit Card
+36,2024-05-01,1910.0,Smartphone,Furniture,2.0,,PayPal
+37,2025-01-03,3172.0,Smartphone,Furniture,4.0,,Cash
+38,2024-06-22,4158.0,Backpack,Accessories,2.0,210.0,Credit Card
+39,2024-10-31,1796.0,Notebook,Electronics,1.0,745.0,PayPal
+40,2024-08-20,,Smartphone,,1.0,314.0,Credit Card
+41,2024-07-11,3721.0,Backpack,Electronics,3.0,352.0,Cash
+42,2024-10-12,3946.0,Headphones,Accessories,1.0,,PayPal
+43,2025-02-02,4568.0,Smartphone,Furniture,3.0,542.0,Cash
+44,2024-07-04,1358.0,Notebook,Stationery,1.0,613.0,Cash
+45,2024-03-21,2303.0,Office Chair,Electronics,3.0,875.0,Cash
+46,2024-06-17,1995.0,Office Chair,Electronics,1.0,,PayPal
+47,,3151.0,Backpack,,4.0,771.0,Cash
+48,2024-03-15,1164.0,Monitor,Electronics,4.0,293.0,Credit Card
+49,,1656.0,Smartphone,Accessories,2.0,668.0,Cash
+50,2024-03-26,3111.0,Smartphone,Furniture,3.0,831.0,Credit Card
+51,2024-10-08,4630.0,Backpack,Electronics,2.0,404.0,Cash
+52,2024-03-11,1475.0,Smartphone,Electronics,4.0,29.0,Credit Card
+53,2024-03-19,,,Electronics,,156.0,PayPal
+54,2024-05-01,4375.0,Notebook,Accessories,2.0,704.0,PayPal
+55,2024-07-17,2251.0,Backpack,Stationery,1.0,967.0,Cash
+56,2024-04-26,1398.0,Desk Lamp,Stationery,2.0,474.0,Cash
+57,2024-04-08,,Headphones,Accessories,3.0,696.0,Cash
+58,2024-05-05,4822.0,Notebook,Stationery,1.0,172.0,
+59,2024-09-24,4400.0,Tablet,Accessories,1.0,858.0,Credit Card
+60,2024-07-30,1880.0,Laptop,,4.0,156.0,Cash
+61,2024-02-04,4877.0,Office Chair,Stationery,1.0,22.0,Cash
+62,2025-02-03,4565.0,Monitor,Accessories,2.0,489.0,PayPal
+63,2024-03-23,4420.0,Backpack,Stationery,3.0,575.0,
+64,2024-10-29,2833.0,Smartphone,Accessories,4.0,203.0,Credit Card
+65,2024-03-08,,Office Chair,Accessories,2.0,66.0,PayPal
+66,2024-06-09,4374.0,,Stationery,2.0,273.0,PayPal
+67,2024-07-18,1112.0,Tablet,Stationery,2.0,656.0,Cash
+68,,2088.0,Notebook,Electronics,1.0,10.0,Cash
+69,2024-11-06,2572.0,Tablet,Accessories,1.0,197.0,Credit Card
+70,2024-12-15,4198.0,Laptop,Accessories,3.0,203.0,Cash
+71,2024-06-29,4175.0,Monitor,Electronics,2.0,951.0,PayPal
+72,2025-01-07,,Notebook,Furniture,3.0,367.0,Cash
+73,2025-01-04,4426.0,,Stationery,2.0,197.0,Credit Card
+74,2025-01-28,,Headphones,Electronics,1.0,92.0,Cash
+75,,1357.0,Headphones,Accessories,1.0,384.0,PayPal
+76,,,Backpack,Accessories,2.0,459.0,PayPal
+77,,2036.0,Tablet,Stationery,3.0,517.0,PayPal
+78,2024-08-16,3342.0,Office Chair,,3.0,983.0,
+79,2024-06-18,2590.0,,Electronics,3.0,574.0,Cash
+80,,3368.0,Laptop,Electronics,2.0,446.0,Credit Card
+81,,2556.0,Office Chair,,3.0,322.0,Credit Card
+82,2024-10-14,3773.0,Laptop,Stationery,3.0,553.0,PayPal
+83,,4145.0,,Accessories,2.0,,PayPal
+84,2024-12-23,4085.0,Headphones,Accessories,2.0,62.0,Cash
+85,2024-03-01,2045.0,,Electronics,,480.0,PayPal
+86,,2035.0,Monitor,Stationery,2.0,299.0,
+87,,4831.0,Headphones,Stationery,3.0,,Credit Card
+88,2024-09-01,4662.0,Desk Lamp,Stationery,1.0,870.0,PayPal
+89,2024-08-17,2809.0,Backpack,Furniture,1.0,352.0,PayPal
+90,2024-08-10,2799.0,,Furniture,1.0,949.0,
+91,2024-07-15,,Desk Lamp,Electronics,,668.0,Credit Card
+92,2024-05-10,2946.0,Headphones,Accessories,4.0,621.0,PayPal
+93,2024-02-18,,Office Chair,Electronics,3.0,186.0,PayPal
+94,2024-10-20,3671.0,,Accessories,3.0,430.0,Credit Card
+95,2024-03-16,4769.0,Monitor,Furniture,1.0,938.0,Cash
+96,2024-10-25,4800.0,Tablet,Stationery,2.0,184.0,Cash
+97,2024-04-14,4796.0,Smartphone,Stationery,,110.0,Credit Card
+98,2024-09-09,4607.0,Laptop,Accessories,3.0,802.0,PayPal
+99,2024-02-17,2736.0,,Accessories,3.0,,Credit Card
+100,2024-09-03,3857.0,Laptop,Electronics,2.0,313.0,Cash
+101,2024-11-24,3587.0,Desk Lamp,Stationery,3.0,505.0,PayPal
+102,2024-11-18,,Office Chair,Accessories,1.0,901.0,Cash
+103,2024-05-05,2036.0,Headphones,Electronics,1.0,109.0,Cash
+104,2024-12-10,3945.0,Desk Lamp,Electronics,2.0,468.0,PayPal
+105,2024-02-06,1951.0,Backpack,Electronics,,630.0,Cash
+106,2024-02-19,2196.0,Headphones,Electronics,4.0,785.0,Cash
+107,2024-08-01,2827.0,Headphones,Stationery,4.0,335.0,Credit Card
+108,2024-05-03,,Tablet,,2.0,74.0,Credit Card
+109,2025-01-20,,Office Chair,Electronics,1.0,58.0,PayPal
+110,2024-12-11,3101.0,Smartphone,Accessories,3.0,62.0,PayPal
+111,2024-07-28,1557.0,Smartphone,,4.0,779.0,
+112,2024-11-20,4920.0,Notebook,Furniture,2.0,684.0,Credit Card
+113,2024-02-15,1386.0,Backpack,Electronics,4.0,191.0,Credit Card
+114,2024-02-08,1170.0,Desk Lamp,,2.0,197.0,PayPal
+115,2024-11-25,3277.0,Laptop,Accessories,,165.0,Cash
+116,2024-05-02,3512.0,Tablet,Accessories,,981.0,Cash
+117,2024-12-04,4573.0,Smartphone,Furniture,3.0,184.0,PayPal
+118,2024-07-20,3792.0,,Electronics,2.0,400.0,Credit Card
+119,2024-12-13,1664.0,Laptop,,2.0,528.0,Credit Card
+120,2024-12-30,4709.0,Smartphone,Accessories,1.0,656.0,Cash
+121,2024-05-07,1306.0,Desk Lamp,Accessories,3.0,,
+122,,4030.0,Desk Lamp,Accessories,4.0,54.0,PayPal
+123,2024-05-06,2082.0,Notebook,Accessories,3.0,934.0,Credit Card
+124,2024-08-21,3204.0,Headphones,Furniture,4.0,214.0,Cash
+125,2024-04-13,2147.0,Monitor,Accessories,2.0,,PayPal
+126,2024-09-27,2127.0,Desk Lamp,Stationery,1.0,833.0,
+127,2024-09-05,,Backpack,Electronics,1.0,580.0,PayPal
+128,2024-07-06,4563.0,Monitor,Furniture,1.0,35.0,Credit Card
+129,2024-07-27,2417.0,Office Chair,Stationery,1.0,702.0,Cash
+130,2024-03-06,3910.0,Laptop,Electronics,,573.0,PayPal
+131,2024-07-27,,Backpack,Accessories,1.0,568.0,Cash
+132,2024-02-05,3536.0,Headphones,Furniture,1.0,891.0,Credit Card
+133,2024-06-09,4667.0,Notebook,Electronics,3.0,257.0,PayPal
+134,2024-12-31,2696.0,Headphones,Furniture,3.0,747.0,
+135,2024-12-25,3783.0,Smartphone,Furniture,1.0,399.0,PayPal
+136,2024-09-24,4645.0,Backpack,Furniture,2.0,599.0,PayPal
+137,2024-09-20,,Office Chair,Furniture,2.0,,Credit Card
+138,2024-09-18,4306.0,Laptop,Electronics,4.0,340.0,Credit Card
+139,2024-09-24,3097.0,Backpack,Electronics,4.0,589.0,Cash
+140,2024-03-06,2275.0,Tablet,Accessories,3.0,,PayPal
+141,2024-04-26,4064.0,Smartphone,Electronics,2.0,28.0,Cash
+142,2024-05-19,3358.0,Backpack,,2.0,,PayPal
+143,2025-01-04,2283.0,Office Chair,Electronics,3.0,134.0,PayPal
+144,,2296.0,Smartphone,Accessories,2.0,939.0,Cash
+145,2024-12-01,1519.0,Tablet,Furniture,,504.0,PayPal
+146,2024-07-24,3880.0,,Electronics,,605.0,PayPal
+147,2024-10-03,2877.0,Backpack,Accessories,1.0,430.0,PayPal
+148,2024-04-09,4619.0,Smartphone,Accessories,4.0,,PayPal
+149,2024-07-05,4326.0,Smartphone,Accessories,2.0,773.0,PayPal
+150,2024-03-01,4638.0,Tablet,Accessories,3.0,799.0,Credit Card
+151,2024-02-10,,Desk Lamp,Electronics,3.0,,Credit Card
+152,2024-04-01,2196.0,Notebook,Electronics,2.0,769.0,Cash
+153,2024-09-12,1666.0,Headphones,Stationery,,681.0,Credit Card
+154,2024-10-16,3652.0,Monitor,Electronics,3.0,,Credit Card
+155,2024-03-18,2629.0,Office Chair,Stationery,1.0,368.0,Cash
+156,2024-09-25,4929.0,Laptop,,1.0,125.0,Credit Card
+157,2025-01-29,3003.0,Smartphone,Stationery,2.0,333.0,Credit Card
+158,2024-03-23,3161.0,Laptop,Furniture,2.0,886.0,
+159,2024-10-31,2289.0,Desk Lamp,Electronics,1.0,899.0,Credit Card
+160,2024-07-23,2424.0,Backpack,Furniture,4.0,758.0,Credit Card
+161,2024-03-23,3780.0,Notebook,Electronics,4.0,660.0,Cash
+162,2024-02-29,1660.0,Office Chair,Accessories,2.0,892.0,Cash
+163,2024-08-03,2132.0,Monitor,Stationery,,,PayPal
+164,2024-07-10,1551.0,,Electronics,2.0,141.0,Cash
+165,2024-05-26,1873.0,Notebook,Stationery,2.0,637.0,Credit Card
+166,2024-11-15,1220.0,Tablet,Electronics,4.0,156.0,Cash
+167,2024-12-15,2581.0,Desk Lamp,Stationery,4.0,899.0,Cash
+168,2024-11-07,3468.0,Laptop,Stationery,3.0,289.0,Cash
+169,2024-11-23,1039.0,Notebook,Furniture,1.0,545.0,PayPal
+170,2025-01-28,4075.0,Office Chair,Furniture,1.0,442.0,Cash
+171,2024-11-18,4252.0,Tablet,Accessories,3.0,886.0,
+172,2024-09-06,1862.0,Smartphone,Furniture,1.0,834.0,Credit Card
+173,2024-05-06,4832.0,Backpack,Furniture,1.0,834.0,PayPal
+174,2024-02-18,3727.0,Monitor,Stationery,2.0,,Credit Card
+175,2024-09-02,,Office Chair,Accessories,3.0,351.0,Cash
+176,2024-08-12,2987.0,Backpack,Stationery,3.0,429.0,Cash
+177,2024-02-29,4240.0,Smartphone,,,835.0,PayPal
+178,,4613.0,,Electronics,4.0,420.0,Cash
+179,2024-06-13,1205.0,Desk Lamp,,4.0,388.0,Cash
+180,2025-01-17,2909.0,Notebook,Stationery,,513.0,
+181,2025-01-21,1212.0,Backpack,Electronics,4.0,762.0,Cash
+182,2024-05-26,2822.0,,Stationery,2.0,530.0,Credit Card
+183,2024-07-16,4722.0,Backpack,Electronics,1.0,845.0,Cash
+184,2024-04-25,1152.0,Smartphone,Electronics,,762.0,Credit Card
+185,2024-03-08,2214.0,Desk Lamp,Stationery,4.0,90.0,
+186,2024-04-28,,Tablet,Furniture,4.0,792.0,Cash
+187,2024-09-23,2914.0,Backpack,Electronics,3.0,,PayPal
+188,2024-07-03,1166.0,Desk Lamp,Electronics,2.0,,Credit Card
+189,2024-02-26,3524.0,Desk Lamp,Electronics,2.0,271.0,Credit Card
+190,2024-06-02,2538.0,Laptop,Stationery,1.0,85.0,Cash
+191,2024-05-06,,Monitor,Accessories,1.0,,Cash
+192,2024-03-30,2497.0,Notebook,Accessories,4.0,137.0,PayPal
+193,2024-08-31,1368.0,Office Chair,Stationery,,428.0,
+194,2024-10-06,3873.0,Laptop,Furniture,2.0,710.0,Cash
+195,2024-04-29,2923.0,Tablet,Stationery,1.0,860.0,PayPal
+196,2024-10-10,3936.0,Laptop,Electronics,4.0,,Credit Card
+197,2024-08-08,3240.0,Smartphone,Stationery,,399.0,
+198,2024-12-11,4311.0,Office Chair,Stationery,4.0,601.0,Cash
+199,2024-02-27,,Desk Lamp,Accessories,3.0,461.0,Cash
+200,2024-03-27,2537.0,,Furniture,3.0,322.0,Credit Card
+201,2024-11-10,1839.0,Monitor,,4.0,384.0,Cash
+202,2024-02-20,4697.0,Monitor,Stationery,3.0,219.0,Credit Card
+203,2024-06-10,1112.0,Smartphone,Stationery,1.0,292.0,Credit Card
+204,2024-02-08,3949.0,Laptop,Electronics,1.0,933.0,PayPal
+205,2024-07-07,4140.0,Backpack,Accessories,3.0,42.0,PayPal
+206,2024-10-30,1049.0,Desk Lamp,Stationery,2.0,206.0,Cash
+207,,2473.0,,,1.0,,PayPal
+208,2024-06-05,3438.0,Monitor,Furniture,3.0,412.0,
+209,2024-04-13,,Tablet,Accessories,1.0,,PayPal
+210,2024-08-10,3878.0,Desk Lamp,Electronics,4.0,227.0,PayPal
+211,2024-04-13,2692.0,Laptop,,2.0,579.0,Credit Card
+212,2024-10-03,2435.0,Desk Lamp,Electronics,2.0,483.0,Credit Card
+213,2024-09-13,2968.0,Laptop,Accessories,3.0,,PayPal
+214,2024-07-22,,Desk Lamp,Stationery,4.0,523.0,
+215,2024-11-06,,Backpack,Furniture,3.0,448.0,Cash
+216,2024-04-22,1218.0,Backpack,Accessories,3.0,562.0,PayPal
+217,2024-08-14,3195.0,Office Chair,Accessories,3.0,376.0,PayPal
+218,,2437.0,Smartphone,Furniture,2.0,844.0,
+219,2024-07-21,2742.0,Desk Lamp,Electronics,4.0,569.0,PayPal
+220,,,Notebook,Stationery,4.0,,Credit Card
+221,,4523.0,Laptop,Stationery,2.0,994.0,PayPal
+222,,1820.0,Backpack,Stationery,4.0,926.0,Cash
+223,2024-10-03,2271.0,Backpack,Accessories,2.0,423.0,Credit Card
+224,2025-02-03,3028.0,Laptop,Electronics,1.0,77.0,Cash
+225,2024-09-20,,Desk Lamp,Accessories,3.0,906.0,
+226,2024-12-26,4491.0,Desk Lamp,Electronics,2.0,627.0,PayPal
+227,2024-04-26,1175.0,Backpack,Electronics,2.0,379.0,Cash
+228,2024-08-17,3101.0,Headphones,,4.0,516.0,Credit Card
+229,2024-10-02,4198.0,Desk Lamp,Accessories,3.0,280.0,Credit Card
+230,2025-01-30,3426.0,Desk Lamp,Stationery,2.0,924.0,Credit Card
+231,2024-09-29,1042.0,Desk Lamp,Electronics,2.0,955.0,Credit Card
+232,2025-01-03,4751.0,,Electronics,1.0,160.0,Cash
+233,2024-12-11,2503.0,Notebook,Stationery,4.0,584.0,Credit Card
+234,2024-09-06,3040.0,Smartphone,Stationery,4.0,811.0,
+235,2024-03-16,,Headphones,Stationery,,323.0,Credit Card
+236,2024-10-03,1330.0,Headphones,Furniture,4.0,512.0,PayPal
+237,2025-01-14,2361.0,Backpack,Stationery,3.0,173.0,Cash
+238,2024-10-27,3366.0,Tablet,Furniture,3.0,979.0,
+239,2024-03-23,3880.0,Monitor,,3.0,759.0,Cash
+240,2024-03-11,1493.0,,Electronics,,399.0,Cash
+241,2024-05-09,4928.0,Monitor,,4.0,805.0,
+242,2024-08-01,2717.0,Smartphone,Electronics,2.0,,
+243,2024-02-25,3900.0,Headphones,Electronics,2.0,372.0,Cash
+244,2024-03-07,2211.0,Backpack,Furniture,4.0,429.0,PayPal
+245,2024-11-24,4323.0,Smartphone,Stationery,4.0,539.0,PayPal
+246,2024-05-22,1062.0,Backpack,,3.0,707.0,Credit Card
+247,2024-07-23,2228.0,Notebook,Furniture,,144.0,Credit Card
+248,2024-05-28,1874.0,Backpack,Accessories,4.0,997.0,Cash
+249,2025-01-09,4200.0,Monitor,Stationery,2.0,943.0,PayPal
+250,2024-06-08,1120.0,Laptop,Furniture,2.0,350.0,Credit Card
+251,2024-11-24,1644.0,Laptop,Furniture,4.0,30.0,PayPal
+252,2024-10-07,3502.0,Office Chair,Electronics,3.0,605.0,Cash
+253,2024-08-10,1802.0,Notebook,Electronics,1.0,,Cash
+254,2024-11-06,3359.0,,Electronics,1.0,70.0,
+255,2024-05-10,2913.0,Notebook,Accessories,1.0,758.0,Cash
+256,2025-01-28,2837.0,Monitor,Accessories,1.0,557.0,PayPal
+257,2024-07-30,,Laptop,Furniture,2.0,816.0,Credit Card
+258,2024-08-08,3928.0,Smartphone,Electronics,1.0,15.0,Cash
+259,2024-12-22,3156.0,Office Chair,Stationery,2.0,434.0,PayPal
+260,2024-04-14,3308.0,Monitor,Electronics,,480.0,Cash
+261,2024-10-21,3461.0,Desk Lamp,Stationery,2.0,466.0,Credit Card
+262,2025-01-08,4310.0,Smartphone,Stationery,1.0,681.0,PayPal
+263,2024-07-14,4443.0,Monitor,Electronics,1.0,256.0,
+264,2024-10-15,1449.0,Smartphone,Furniture,4.0,27.0,PayPal
+265,2024-02-11,1661.0,Backpack,Electronics,2.0,730.0,PayPal
+266,2024-09-21,3282.0,Office Chair,Furniture,2.0,659.0,Cash
+267,2025-01-09,4067.0,Office Chair,Accessories,2.0,722.0,
+268,2024-09-17,4611.0,,Stationery,3.0,767.0,Cash
+269,2024-07-07,1146.0,Backpack,,2.0,,Cash
+270,2024-10-16,2532.0,Desk Lamp,,1.0,,Credit Card
+271,2024-02-08,1018.0,,Furniture,4.0,184.0,PayPal
+272,2024-08-30,1448.0,Headphones,Furniture,3.0,150.0,PayPal
+273,2024-11-28,2920.0,Headphones,Electronics,,248.0,Credit Card
+274,2025-01-10,3607.0,Laptop,Electronics,4.0,326.0,Credit Card
+275,2024-07-10,1294.0,Tablet,Furniture,1.0,,Credit Card
+276,2024-08-01,2348.0,Laptop,Stationery,3.0,323.0,Credit Card
+277,2024-06-08,2126.0,Smartphone,Electronics,1.0,583.0,Credit Card
+278,2024-10-28,3218.0,Desk Lamp,Stationery,1.0,396.0,Cash
+279,2024-06-29,3588.0,Smartphone,Stationery,4.0,,Credit Card
+280,2024-03-30,4893.0,Desk Lamp,Accessories,4.0,842.0,Credit Card
+281,2025-01-13,1504.0,Backpack,Accessories,,508.0,Cash
+282,2024-08-29,3677.0,Desk Lamp,Stationery,2.0,422.0,Cash
+283,2024-12-06,1658.0,Headphones,Electronics,1.0,792.0,Cash
+284,2024-02-08,1138.0,,Furniture,2.0,66.0,PayPal
+285,,3482.0,Headphones,Accessories,4.0,543.0,
+286,2024-05-10,3763.0,Desk Lamp,Accessories,4.0,344.0,Credit Card
+287,2024-03-03,4120.0,Headphones,Furniture,1.0,566.0,PayPal
+288,2024-07-21,3382.0,Notebook,Accessories,1.0,644.0,PayPal
+289,2024-12-05,4804.0,Office Chair,Stationery,3.0,703.0,PayPal
+290,2024-09-15,,Tablet,,,583.0,Cash
+291,2024-03-22,4643.0,,Stationery,2.0,488.0,Cash
+292,2024-09-06,3143.0,Headphones,Furniture,4.0,570.0,Credit Card
+293,,3395.0,Headphones,Electronics,4.0,728.0,Credit Card
+294,2024-12-07,2955.0,Tablet,Electronics,,323.0,
+295,2024-09-21,4439.0,Monitor,Accessories,2.0,509.0,Credit Card
+296,2024-07-03,4426.0,,Stationery,4.0,53.0,Credit Card
+297,2024-04-05,3618.0,Monitor,Accessories,1.0,,PayPal
+298,2024-09-28,3972.0,Laptop,Accessories,,908.0,Credit Card
+299,,,Notebook,Furniture,1.0,,PayPal
+300,2024-08-03,4645.0,Backpack,Accessories,4.0,625.0,Cash
+301,2024-12-28,2848.0,,,3.0,395.0,PayPal
+302,2024-10-02,3781.0,Laptop,Furniture,2.0,187.0,Cash
+303,2024-03-07,1857.0,Monitor,Furniture,2.0,745.0,Credit Card
+304,2024-09-07,1383.0,Backpack,Electronics,3.0,204.0,PayPal
+305,2024-03-09,4293.0,Laptop,Furniture,1.0,165.0,Credit Card
+306,2024-11-23,4449.0,Notebook,Stationery,2.0,595.0,
+307,2025-01-13,4508.0,Notebook,Accessories,3.0,896.0,PayPal
+308,2024-08-30,3007.0,Notebook,Furniture,1.0,349.0,Credit Card
+309,2024-06-23,4611.0,,Electronics,1.0,584.0,PayPal
+310,2024-06-09,2093.0,Smartphone,Accessories,3.0,600.0,Credit Card
+311,2024-03-20,3875.0,Tablet,Furniture,2.0,697.0,PayPal
+312,2024-05-31,2240.0,Tablet,Furniture,3.0,513.0,Cash
+313,2025-01-09,4996.0,Monitor,Accessories,,239.0,PayPal
+314,2024-11-15,4329.0,Tablet,,1.0,191.0,Credit Card
+315,2024-05-26,4839.0,Backpack,Accessories,3.0,285.0,
+316,2024-02-07,1956.0,,Electronics,3.0,684.0,Cash
+317,,4726.0,Laptop,Stationery,4.0,468.0,Cash
+318,2024-03-11,3964.0,,Furniture,3.0,935.0,Cash
+319,2024-04-10,1507.0,Smartphone,Stationery,2.0,175.0,Cash
+320,2024-08-28,3509.0,Tablet,Furniture,1.0,365.0,Cash
+321,,3254.0,Office Chair,Stationery,4.0,718.0,Credit Card
+322,2024-06-11,4196.0,Office Chair,Electronics,4.0,582.0,Credit Card
+323,2024-04-20,1382.0,,Stationery,2.0,83.0,
+324,2024-03-12,3986.0,Desk Lamp,Accessories,4.0,220.0,Cash
+325,2024-12-02,2943.0,Headphones,Stationery,4.0,718.0,Cash
+326,,2338.0,Smartphone,Stationery,1.0,789.0,PayPal
+327,,2923.0,Backpack,Electronics,2.0,477.0,PayPal
+328,2024-10-12,2944.0,,Stationery,3.0,703.0,PayPal
+329,,3935.0,Monitor,,1.0,949.0,Credit Card
+330,2024-08-23,4414.0,Desk Lamp,,3.0,866.0,Credit Card
+331,2025-01-14,2205.0,Backpack,Stationery,1.0,73.0,Cash
+332,2024-05-18,4331.0,Laptop,Stationery,4.0,981.0,PayPal
+333,2024-03-22,2749.0,Headphones,Stationery,,102.0,PayPal
+334,2024-10-29,1653.0,Headphones,Accessories,2.0,121.0,Credit Card
+335,2024-09-25,1374.0,Tablet,Furniture,4.0,231.0,PayPal
+336,,3690.0,Tablet,Furniture,2.0,22.0,Credit Card
+337,2024-11-25,2857.0,Smartphone,Electronics,2.0,843.0,PayPal
+338,2024-10-27,4609.0,Tablet,Accessories,4.0,820.0,PayPal
+339,2024-08-29,3707.0,Tablet,Electronics,4.0,995.0,PayPal
+340,2024-07-10,4792.0,Notebook,Accessories,3.0,153.0,PayPal
+341,2024-03-14,1829.0,Monitor,Accessories,1.0,964.0,Cash
+342,2024-05-11,1951.0,Smartphone,Stationery,4.0,265.0,Cash
+343,2024-10-01,2096.0,Office Chair,Stationery,4.0,,PayPal
+344,2024-03-19,1464.0,Monitor,Electronics,4.0,216.0,
+345,2024-04-10,1884.0,Notebook,Accessories,3.0,318.0,
+346,2024-10-27,4339.0,Laptop,Electronics,4.0,819.0,PayPal
+347,2024-11-09,1924.0,Office Chair,Furniture,3.0,107.0,PayPal
+348,2024-08-29,,,Stationery,4.0,59.0,PayPal
+349,2024-02-29,3775.0,Notebook,Stationery,1.0,93.0,Cash
+350,2024-10-04,4876.0,Desk Lamp,Accessories,4.0,,Cash
+351,2024-08-15,1359.0,Tablet,Electronics,2.0,577.0,PayPal
+352,2024-06-12,1038.0,Laptop,Accessories,1.0,22.0,Credit Card
+353,2025-01-31,4865.0,Backpack,,,347.0,PayPal
+354,,3430.0,Tablet,Stationery,4.0,480.0,PayPal
+355,2024-04-22,4713.0,Monitor,Stationery,4.0,311.0,PayPal
+356,2024-07-23,3500.0,Backpack,Furniture,4.0,137.0,PayPal
+357,2024-11-13,,Office Chair,Accessories,4.0,837.0,PayPal
+358,2024-02-14,2366.0,Laptop,Electronics,3.0,744.0,Cash
+359,2024-07-21,4561.0,Desk Lamp,Stationery,2.0,190.0,PayPal
+360,2024-11-03,1776.0,Backpack,Electronics,1.0,697.0,PayPal
+361,2024-03-17,4442.0,,Electronics,3.0,115.0,Cash
+362,2024-02-28,2998.0,Monitor,Stationery,1.0,858.0,Credit Card
+363,2024-11-25,1039.0,,,,990.0,PayPal
+364,2024-02-20,,Desk Lamp,,4.0,437.0,PayPal
+365,2024-04-16,2234.0,Monitor,Electronics,3.0,57.0,PayPal
+366,2024-12-23,,,Stationery,4.0,196.0,Credit Card
+367,2024-02-07,3271.0,Tablet,Electronics,1.0,858.0,Credit Card
+368,2024-10-10,2252.0,Backpack,,,,PayPal
+369,2024-11-13,1269.0,Backpack,Accessories,4.0,560.0,Credit Card
+370,2024-06-17,3892.0,Backpack,Stationery,2.0,129.0,
+371,,2757.0,Office Chair,Accessories,,246.0,PayPal
+372,,3785.0,Backpack,Accessories,1.0,431.0,Cash
+373,2024-02-08,1071.0,Desk Lamp,Furniture,2.0,553.0,Cash
+374,2025-01-23,3953.0,Office Chair,Accessories,3.0,85.0,
+375,2024-03-18,1826.0,Smartphone,Furniture,4.0,354.0,Cash
+376,2024-08-17,2960.0,,,,496.0,
+377,2024-06-23,4477.0,Notebook,Electronics,1.0,648.0,PayPal
+378,2024-05-18,4697.0,Laptop,Accessories,4.0,726.0,Credit Card
+379,2024-02-20,2973.0,Notebook,Electronics,1.0,920.0,Credit Card
+380,2024-02-26,4344.0,Tablet,Furniture,4.0,740.0,Credit Card
+381,2024-11-25,4350.0,Tablet,Accessories,3.0,483.0,Cash
+382,2024-03-13,3746.0,Monitor,Electronics,1.0,165.0,Credit Card
+383,2024-02-08,2724.0,Monitor,Furniture,2.0,731.0,Cash
+384,2024-11-29,1912.0,,Electronics,4.0,507.0,Credit Card
+385,2024-04-16,,Headphones,,3.0,990.0,PayPal
+386,2024-03-08,3708.0,Monitor,Electronics,4.0,476.0,Cash
+387,2024-08-30,,Notebook,Furniture,4.0,488.0,Credit Card
+388,2024-09-06,3518.0,,Furniture,1.0,834.0,Credit Card
+389,,2717.0,Laptop,Accessories,3.0,852.0,PayPal
+390,2024-06-23,4791.0,Desk Lamp,Accessories,3.0,149.0,Credit Card
+391,2024-10-17,4308.0,Desk Lamp,,4.0,81.0,Cash
+392,2025-01-01,4261.0,Laptop,Stationery,,51.0,PayPal
+393,2024-07-13,1882.0,Monitor,Stationery,3.0,282.0,Credit Card
+394,2024-10-31,,Smartphone,Electronics,4.0,416.0,PayPal
+395,2024-08-01,1341.0,Headphones,Furniture,1.0,502.0,Cash
+396,2024-06-30,1821.0,Tablet,Electronics,1.0,236.0,Cash
+397,2024-06-24,3186.0,Tablet,,1.0,,PayPal
+398,2024-03-21,2086.0,Tablet,,3.0,,Cash
+399,2024-11-22,1272.0,Backpack,Stationery,4.0,37.0,PayPal
+400,2024-03-15,2573.0,Monitor,Electronics,3.0,253.0,PayPal
+210,2024-08-10,3878.0,Desk Lamp,Electronics,4.0,227.0,PayPal
+281,2025-01-13,1504.0,Backpack,Accessories,,508.0,Cash
+34,2025-01-15,1556.0,Notebook,Furniture,,439.0,PayPal
+211,2024-04-13,2692.0,Laptop,,2.0,579.0,Credit Card
+94,2024-10-20,3671.0,,Accessories,3.0,430.0,Credit Card
+85,2024-03-01,2045.0,,Electronics,,480.0,PayPal
+330,2024-08-23,4414.0,Desk Lamp,,3.0,866.0,Credit Card
+95,2024-03-16,4769.0,Monitor,Furniture,1.0,938.0,Cash
+267,2025-01-09,4067.0,Office Chair,Accessories,2.0,722.0,
+127,2024-09-05,,Backpack,Electronics,1.0,580.0,PayPal
+10,,4741.0,Monitor,Electronics,3.0,861.0,PayPal
+362,2024-02-28,2998.0,Monitor,Stationery,1.0,858.0,Credit Card
+57,2024-04-08,,Headphones,Accessories,3.0,696.0,Cash
+73,2025-01-04,4426.0,,Stationery,2.0,197.0,Credit Card
+133,2024-06-09,4667.0,Notebook,Electronics,3.0,257.0,PayPal
+43,2025-02-02,4568.0,Smartphone,Furniture,3.0,542.0,Cash
+279,2024-06-29,3588.0,Smartphone,Stationery,4.0,,Credit Card
+377,2024-06-23,4477.0,Notebook,Electronics,1.0,648.0,PayPal
+232,2025-01-03,4751.0,,Electronics,1.0,160.0,Cash
+386,2024-03-08,3708.0,Monitor,Electronics,4.0,476.0,Cash

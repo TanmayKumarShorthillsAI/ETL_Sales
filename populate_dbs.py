@@ -9,8 +9,8 @@ load_dotenv()
 
 
 def insert_into_mongo():
-    mdb_password = os.getenv("mongo_db_password")
-    print(mdb_password)
+    mdb_password = os.getenv("mongodb_pass")
+    # print(mdb_password)
     uri = f"mongodb+srv://t2001kumar:{mdb_password}@cluster1.911mn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1"
     client = MongoClient(uri)
 
@@ -29,7 +29,6 @@ def insert_into_mongo():
     # print(type(data), data[:5])
 
     inserted_records = my_col.insert_many(data)
-
 
     print(inserted_records)
 
@@ -104,10 +103,13 @@ def insert_into_mysql():
     except Exception as e:
         print(e)
 
+    cursor.close()
+    connection.close()
+
 
 def main():
-    # insert_into_mongo()
-    insert_into_mysql()
+    insert_into_mongo()
+    # insert_into_mysql()
 
 
 if __name__ == "__main__":
